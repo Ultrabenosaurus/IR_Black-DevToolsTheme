@@ -7,7 +7,7 @@ Port of [bentruyman's](https://github.com/bentruyman) IR_Black and [codemirror's
 * CodeMirror Base16: [https://github.com/codemirror/CodeMirror](https://github.com/codemirror/CodeMirror)
 * Extension Help: [http://stackoverflow.com/a/21210882](http://stackoverflow.com/a/21210882)
 
-![Screenshot](screenshot.png)
+![Screenshot](img/screenshot.png)
 
 ## Install ##
 
