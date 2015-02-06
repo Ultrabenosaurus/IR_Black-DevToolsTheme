@@ -160,6 +160,19 @@
   /**********************************************/
   /* HTML
   /**********************************************/
+  body /deep/ li.selected .selection,
+  body /deep/ .outline-disclosure li.selected .selection,
+  .outline-disclosure li.selected .selection {
+    background-color: rgba(212, 212, 212, 0.4) !important;
+  }
+  #elements-content li.select .webkit-html-comment,
+  #network-views li.select .webkit-html-comment,
+  #script-resource-views li.select .webkit-html-comment,
+  #storage-views li.select .webkit-html-comment,
+  body /deep/ li.selected .webkit-html-comment {
+    color: #000!important;
+  }
+
   #storage-views .webkit-html-comment,
   #elements-content .webkit-html-comment,
   body /deep/ .webkit-html-comment,
