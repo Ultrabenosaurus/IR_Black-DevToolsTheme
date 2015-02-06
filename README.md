@@ -11,6 +11,8 @@ Port of [bentruyman's](https://github.com/bentruyman) IR_Black and [codemirror's
 
 ## Install ##
 
+If you're happy with those themes, then just [grab it from the Chrome Web Store](https://chrome.google.com/webstore/detail/irblack-base16-devtools-t/ocgjhemmdfeacaddbpdanlkopoefobif?hl=en&gl=GB). If you want to be able to customise the colours, follow these instructions to install it manually:
+
 1. go to `chrome://flags` and enable "Enable Developer Tools experiments."
 2. restart Chrome
 3. open Dev Tools, go to the Experiments tab off the cog menu and tick "Allow custom UI themes"
