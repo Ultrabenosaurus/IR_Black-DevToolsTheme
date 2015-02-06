@@ -22,7 +22,7 @@ Port of [bentruyman's](https://github.com/bentruyman) IR_Black and [codemirror's
 
 Just edit `Custom.css` and you should see the changes instantly - if not, go to `chrome://extensions` and reload this extension. You can even swap out the file for a completely different theme, if you want.
 
-To change the theme used on the Sources panel you'll want to edit the `.cm-js-*` stuff at the bottom of `Custom.css`. If you replace it outright with an existing CodeMirror theme, make sure the theme name selectors (`.cm-s-*`) are changed to `.cm-s-default` or it won't work. Also not sure if ever CSS rule needs an `!important` but it can't hurt, right?
+To change the theme used on the Sources panel you'll want to edit the `.cm-js-*` stuff at the bottom of `Custom.css`. If you replace it outright with an existing CodeMirror theme, make sure the theme name selectors (`.cm-s-*`) are changed to `.cm-s-default` or it won't work. Also not sure if every CSS rule needs an `!important` but it can't hurt, right?
 
 ## License ##
 
