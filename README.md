@@ -1,11 +1,13 @@
-IR_Black-DevToolsTheme
-======================
+IR_Black + Base16 Dark DevTools Theme
+================================
 
-Port of [bentruyman's](https://github.com/bentruyman) IR_Black and [codemirror's](https://github.com/codemirror) Base16 themes for Chrome Developer Tools using the experimental extension format.
+Port of [bentruyman's](https://github.com/bentruyman) IR_Black and [codemirror's](https://github.com/codemirror) Base16 Dark themes for Chrome Developer Tools using the experimental extension format.
 
 * IR_Black Theme: [https://gist.github.com/bentruyman/1150520](https://gist.github.com/bentruyman/1150520)
 * CodeMirror Base16: [https://github.com/codemirror/CodeMirror](https://github.com/codemirror/CodeMirror)
 * Extension Help: [http://stackoverflow.com/a/21210882](http://stackoverflow.com/a/21210882)
+
+![Screenshot](screenshot.png)
 
 ## Install ##
 
