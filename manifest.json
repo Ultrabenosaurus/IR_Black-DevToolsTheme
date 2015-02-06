@@ -1,0 +1,7 @@
+{
+  "name": "IR_Black + Base16 DevTools Theme",
+  "description": "Port of bentruyman's IR_Black and codemirror's Base16 themes for Chrome Developer Tools using the experimental extension format.",
+  "version": "1",
+  "devtools_page": "devtools.html",
+  "manifest_version": 2
+}
