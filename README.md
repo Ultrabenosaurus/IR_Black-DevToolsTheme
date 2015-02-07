@@ -16,7 +16,7 @@ If you're happy with those themes, then just [grab it from the Chrome Web Store]
 1. go to `chrome://flags` and enable "Enable Developer Tools experiments."
 2. restart Chrome
 3. open Dev Tools, go to the Experiments tab off the cog menu and tick "Allow custom UI themes"
-4. clone this repo or grab the latest ZIP from the `bin` directory
+4. clone this repo or grab the latest ZIP from [the `bin` directory](https://github.com/Ultrabenosaurus/IR_Black-DevToolsTheme/tree/master/bin)
 5. go to `chrome://extensions` and enable Developer Mode
 6. click "Load unpacked extension..." and open the folder for this repo
 
